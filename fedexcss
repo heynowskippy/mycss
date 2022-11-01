@@ -1,0 +1,16 @@
+form[name=main] td:not(.fixedfont td) {
+ font-family: Monaco !important; 
+ letter-spacing: -0.5pt !important;
+ white-space: nowrap !important;
+}
+
+.fixedfont {
+	font-family: Monaco !important;
+/*	white-space: nowrap !important;
+*/
+	letter-spacing: -0.5pt !important;
+	}
+	
+div, p, h1, h2, h3, h4, .top-bar, .content, .smallpurpleheader, .smallgreenheader, .pagesubheader, .pagesubheader2, .subheader, .warning, .alert, .chan, .top-bar-section {
+	font-family: -apple-system !important;
+	}
