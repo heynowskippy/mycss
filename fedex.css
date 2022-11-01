@@ -1,11 +1,11 @@
 form[name=main] td:not(.fixedfont td) {
- font-family: Monaco !important; 
+ font-family: Menlo-Regular !important; 
  letter-spacing: -0.5pt !important;
  white-space: nowrap !important;
 }
 
 .fixedfont {
-	font-family: Monaco !important;
+	font-family: Menlo-Regular !important;
 /*	white-space: nowrap !important;
 */
 	letter-spacing: -0.5pt !important;
