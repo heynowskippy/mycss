@@ -1,4 +1,4 @@
-@-moz-document	url-prefix(https://pilot.fedex.com/) {
+@-moz-document	domain(pilot.fedex.com) {
 form[name=main] td:not(.fixedfont td) {
  font-family: Menlo-Regular !important; 
  letter-spacing: -0.5pt !important;
