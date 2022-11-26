@@ -1,0 +1,11 @@
+#document
+<html>
+  <body>
+   <style>
+      @font-face {
+        font-family: "Arial";
+        src: local("-apple-system");
+     }
+   </style>
+  </body>
+</html>
