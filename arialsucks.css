@@ -4,7 +4,7 @@
    <style>
       @font-face {
         font-family: "Arial";
-        src: local("-apple-system");
+        src: local("-apple-system") !important;
         }
    </style>
  </body>
