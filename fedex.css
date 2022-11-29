@@ -13,6 +13,6 @@ form[name=main] td:not(.fixedfont td) {
 	}
 	
 div, p, h1, h2, h3, h4, .top-bar, .content, .smallpurpleheader, .smallgreenheader, .pagesubheader, .pagesubheader2, .subheader, .warning, .alert, .chan, .top-bar-section {
-	font-family: -apple-system !important;
+	font-family: -apple-system, "Helvetica Neue" !important;
 	}
 }
