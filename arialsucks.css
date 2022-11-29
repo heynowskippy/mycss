@@ -1,5 +1,4 @@
-@font-face
+[font-family*=Arial]
   {
-  font-family: "Arial";
-  src: local("Avenir Next") !important;
+  font-family: "Avenir Next",system-ui !important;
   }
